@@ -1,6 +1,11 @@
-## Hi there 👋
+![](assets/Bottom_up.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Hello!+I'm+Qian)](https://git.io/typing-svg)
+<p align="center">
+    <a href="https://github.com/CITATS928"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Hello!+I'm+Qian" alt="Typing SVG" /></a>
+</p>
+<!--
+[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Hello!+I'm+Qian)](https://github.com/CITATS928)
+-->
 
 - 🌱 I'm currently studying Python and SQL
 <!--
