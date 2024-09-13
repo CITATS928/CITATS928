@@ -14,7 +14,13 @@
 </p>
 
 
-![](https://raw.githubusercontent.com/CITATS928/CITATS928/main/dist/github-contribution-grid-snake.svg)
+![贪吃蛇](https://raw.githubusercontent.com/CITATS928/CITATS928/main/dist/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CITATS928/CITATS928/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CITATS928/CITATS928/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CITATS928/CITATS928/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 - 🌱 I'm currently studying Python and SQL
 <!--
