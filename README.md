@@ -14,7 +14,7 @@
 </p>
 
 
-![贪吃蛇](https://raw.githubusercontent.com/CITATS928/CITATS928/main/dist/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/CITATS928/CITATS928/main/dist/github-contribution-grid-snake.svg)
 
 - 🌱 I'm currently studying Python and SQL
 <!--
