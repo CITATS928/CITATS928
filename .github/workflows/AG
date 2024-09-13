@@ -1,0 +1,41 @@
+name: Auto Green
+
+# 定义触发条件：每天运行一次
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天凌晨 0:00（UTC 时间）
+  workflow_dispatch:  # 也可以手动触发
+
+jobs:
+  auto-green:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 检出代码
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      # 创建一个临时文件，内容可以每次不同以确保生成新的提交
+      - name: Create dummy commit file
+        run: echo "$(date) - Auto green commit" > auto-green.txt
+
+      # 配置 git
+      - name: Configure git
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+
+      # 添加文件到 git 暂存区
+      - name: Add changes
+        run: git add auto-green.txt
+
+      # 提交更改
+      - name: Commit changes
+        run: git commit -m "Auto-green commit on $(date)"
+
+      # 推送到主分支
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
