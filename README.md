@@ -13,6 +13,9 @@
     
 </p>
 
+
+![贪吃蛇](https://raw.githubusercontent.com/CITATS928/CITATS928/main/dist/github-contribution-grid-snake.svg)
+
 - 🌱 I'm currently studying Python and SQL
 <!--
 **CITATS928/CITATS928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
