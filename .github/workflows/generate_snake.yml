@@ -19,7 +19,7 @@ jobs:
         uses: aelassas/snk/svg-only@main
         id: snake-gif
         with:
-          github_user_name: CITATS928
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
               dist/github-contribution-grid-snake.svg
               dist/github-snake-dark.svg?palette=github-dark
