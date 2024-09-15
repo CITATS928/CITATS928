@@ -36,3 +36,10 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CITATS928&theme=nightowl)
 
 -->
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CITATS928" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=CITATS928" />
+</div>
+
+
