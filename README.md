@@ -15,7 +15,7 @@
 </p>
 
 <!-- 分割线 -->
-<table><tr><td valign="top" width="33%">
+---
 
 <!-- 贪吃蛇 -->
 <picture>
