@@ -51,7 +51,20 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-    
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white&logoSize=auto)
+
+![MarkDown](https://img.shields.io/badge/markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white&logoSize=auto)
+
+![JAVA](https://img.shields.io/badge/JAVA-%23000000?style=for-the-badge&logo=JAVA&logoColor=white&logoSize=auto)
+
+
+![MTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)
+![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)
+
+
+![javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto)
+
