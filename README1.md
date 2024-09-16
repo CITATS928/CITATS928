@@ -85,3 +85,9 @@
 ![react](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&logoSize=auto)
 
 
+![kafka](https://img.shields.io/badge/apachekafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white&logoSize=auto)
+![spark](https://img.shields.io/badge/apachespark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&logoSize=auto)
+
+![jupyter](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto)
+
+
