@@ -90,4 +90,9 @@
 
 ![jupyter](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto)
 
+![scrum](https://img.shields.io/badge/scrum-%23000000?style=for-the-badge&logo=scrum&logoColor=white&logoSize=auto)
+![agile](https://img.shields.io/badge/agile-%23000000?style=for-the-badge&logo=agile&logoColor=white&logoSize=auto)
+
+![virtualbox](https://img.shields.io/badge/virtualbox-%23183A61?style=for-the-badge&logo=virtualbox&logoColor=white&logoSize=auto)
+![vmware](https://img.shields.io/badge/vmware-%23607078?style=for-the-badge&logo=vmware&logoColor=white&logoSize=auto)
 
