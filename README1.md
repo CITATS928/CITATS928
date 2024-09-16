@@ -69,9 +69,19 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto)
 
 ---
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=Gitee&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&logoSize=auto)
+![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=Gitee&logoColor=white&logoSize=auto)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&logoSize=auto)
 
-![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white&logoSize=auto)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&logoSize=auto)
+
+
+![wireshark](https://img.shields.io/badge/wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white&logoSize=auto)
+![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white&logoSize=auto)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white&logoSize=auto)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=auto)
+![react](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&logoSize=auto)
+
+
