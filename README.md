@@ -24,10 +24,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CITATS928/CITATS928/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Project
-### StarMeter
+## Projects
+### [StarMeter](https://github.com/QueueTTP/CapStone)
 
-### Prophecy
+### [Prophecy](https://github.com/CITATS928/Prophecy)
 
 
 ## 📈Statistics
