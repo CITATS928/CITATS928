@@ -69,9 +69,13 @@
 
 #### Frontend Markup & Styling
 
-#### Methodologies
+#### Workflows
+![scrum](https://img.shields.io/badge/scrum-%23000000?style=for-the-badge&logo=scrum&logoColor=white&logoSize=auto)
+![agile](https://img.shields.io/badge/agile-%23000000?style=for-the-badge&logo=agile&logoColor=white&logoSize=auto)
 
 #### Others
+![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white&logoSize=auto)
+
 
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto)
@@ -97,7 +101,6 @@
 
 
 ![wireshark](https://img.shields.io/badge/wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white&logoSize=auto)
-![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white&logoSize=auto)
 
 ![jupyter](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto)
 ![kafka](https://img.shields.io/badge/apachekafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white&logoSize=auto)
