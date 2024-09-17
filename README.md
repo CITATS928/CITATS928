@@ -55,19 +55,31 @@
 
 ## My Skill Set  
 
+#### Programming Languages
+
+#### Data & Analytics
+
+#### Databases
+
+#### Cloud Services
+
+#### Frameworks
+
+#### Development Tools
+
+#### Frontend Markup & Styling
+
+#### Methodologies
+
+#### Others
+
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white&logoSize=auto)
-
-![MarkDown](https://img.shields.io/badge/markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white&logoSize=auto)
-
 ![JAVA](https://img.shields.io/badge/JAVA-%23000000?style=for-the-badge&logo=JAVA&logoColor=white&logoSize=auto)
 
-
+![MarkDown](https://img.shields.io/badge/markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white&logoSize=auto)
 ![MTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)
-
-
 ![javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto)
 
@@ -75,27 +87,27 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&logoSize=auto)
 ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=Gitee&logoColor=white&logoSize=auto)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&logoSize=auto)
-
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white&logoSize=auto)
+![virtualbox](https://img.shields.io/badge/virtualbox-%23183A61?style=for-the-badge&logo=virtualbox&logoColor=white&logoSize=auto)
+![vmware](https://img.shields.io/badge/vmware-%23607078?style=for-the-badge&logo=vmware&logoColor=white&logoSize=auto)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&logoSize=auto)
+
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white&logoSize=auto)
 
 
 ![wireshark](https://img.shields.io/badge/wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white&logoSize=auto)
 ![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white&logoSize=auto)
 
+![jupyter](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto)
+![kafka](https://img.shields.io/badge/apachekafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white&logoSize=auto)
+![spark](https://img.shields.io/badge/apachespark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&logoSize=auto)
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white&logoSize=auto)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=auto)
 ![react](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&logoSize=auto)
 
-
-![kafka](https://img.shields.io/badge/apachekafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white&logoSize=auto)
-![spark](https://img.shields.io/badge/apachespark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&logoSize=auto)
-
-![jupyter](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto)
-
 ![scrum](https://img.shields.io/badge/scrum-%23000000?style=for-the-badge&logo=scrum&logoColor=white&logoSize=auto)
 ![agile](https://img.shields.io/badge/agile-%23000000?style=for-the-badge&logo=agile&logoColor=white&logoSize=auto)
 
-![virtualbox](https://img.shields.io/badge/virtualbox-%23183A61?style=for-the-badge&logo=virtualbox&logoColor=white&logoSize=auto)
-![vmware](https://img.shields.io/badge/vmware-%23607078?style=for-the-badge&logo=vmware&logoColor=white&logoSize=auto)
 
