@@ -47,12 +47,11 @@
 <span>&emsp;&emsp;</span>
 </div>
 
+
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CITATS928" />
+    <img src="https://github-readme-streak-stats-three-rose.vercel.app?user=CITATS928" alt="GitHub Streak" />
     <img  src="https://github-profile-trophy.vercel.app/?username=CITATS928" />
 </div>
-
-
 
 ## My Skill Set  
 
