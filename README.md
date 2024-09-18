@@ -53,8 +53,8 @@
 5. **Flask**
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/CITATS928/Prophecy/blob/main/graph%26future/flow_graph.png" alt="workflow" width="400"/>
-  <img src="https://github.com/CITATS928/Prophecy/blob/main/graph%26future/LLM.png" alt="LLM" width="400"/>
+  <img src="https://github.com/CITATS928/Prophecy/blob/main/graph%26future/flow_graph.png" alt="workflow" width="350"/>
+  <img src="https://github.com/CITATS928/Prophecy/blob/main/graph%26future/LLM.png" alt="LLM" width="350"/>
 </div>
 
 ## 📈Statistics
