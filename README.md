@@ -26,6 +26,15 @@
 
 ## Projects
 #### [StarMeter](https://github.com/QueueTTP/CapStone)
+##### Tools and Technologies Used
+
+1. **Python**: Used to build the core of the project, including the event simulation system.
+2. **Amazon RDS**: Stored the data for user settings and preferences.
+3. **MySQL-connector**: Connected Python to the **Amazon RDS** database to store and manage user data.
+4. **Apache Kafka**: Handled real-time event streaming, allowing data to flow smoothly and be processed instantly.
+5. **Jupyter Notebook**: Created the dashboard to show changes in celebrity popularity.
+6. **Flask**: Built the web application where users can track and analyze events.
+7. **Docker**: Packaged the project so it can be easily run anywhere.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Pipeline.png" alt="Pipeline" width="500"/>
