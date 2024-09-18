@@ -24,6 +24,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CITATS928/CITATS928/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
 ## Projects
 #### [StarMeter](https://github.com/QueueTTP/CapStone)
 ##### Tools and Technologies Used
@@ -43,6 +45,8 @@
   <img src="https://github.com/QueueTTP/CapStone/blob/main/images/StarMeter_Future.png" alt="StarMeter_Future" width="350"/>
 </div>
 
+---
+
 #### [Prophecy(In Progress)](https://github.com/CITATS928/Prophecy)
 ##### Tools and Technologies Used
 
@@ -56,6 +60,8 @@
   <img src="https://github.com/CITATS928/Prophecy/blob/main/graph%26future/flow_graph.png" alt="workflow" width="350"/>
   <img src="https://github.com/CITATS928/Prophecy/blob/main/graph%26future/LLM.png" alt="LLM" width="350"/>
 </div>
+
+---
 
 ## 📈Statistics
 
