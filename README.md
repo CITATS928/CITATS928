@@ -37,10 +37,10 @@
 7. **Docker**: Packaged the project so it can be easily run anywhere.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Pipeline.png" alt="Pipeline" width="400"/>
-  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Real-time_chart.png" alt="Real-time_chart" width="400"/>
-  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Website.png" alt="Website" width="400"/>
-  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/StarMeter_Future.png" alt="StarMeter_Future" width="400"/>
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Pipeline.png" alt="Pipeline" width="350"/>
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Real-time_chart.png" alt="Real-time_chart" width="350"/>
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Website.png" alt="Website" width="350"/>
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/StarMeter_Future.png" alt="StarMeter_Future" width="350"/>
 </div>
 
 #### [Prophecy(In Progress)](https://github.com/CITATS928/Prophecy)
