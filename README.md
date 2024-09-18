@@ -25,10 +25,21 @@
 </picture>
 
 ## Projects
-### [StarMeter](https://github.com/QueueTTP/CapStone)
+#### [StarMeter](https://github.com/QueueTTP/CapStone)
 
-### [Prophecy](https://github.com/CITATS928/Prophecy)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Pipeline.png" alt="Pipeline" width="500"/>
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Real-time_chart.png" alt="Real-time_chart" width="500"/>
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Website.png" alt="Website" width="500"/>
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/StarMeter_Future.png" alt="StarMeter_Future" width="500"/>
+</div>
 
+#### [Prophecy(In Progress)](https://github.com/CITATS928/Prophecy)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Pipeline.png" alt="Pipeline" width="500"/>
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Real-time_chart.png" alt="Real-time_chart" width="500"/>
+
+</div>
 
 ## 📈Statistics
 
@@ -41,19 +52,19 @@
 
 
 <!-- 语言使用统计 -->
-<div align="center">
+<p align="center">
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CITATS928&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
-</div>
+</p>
 
 
-<div align="center">
+<p align="center">
     <img src="https://github-readme-streak-stats-three-rose.vercel.app?user=CITATS928" alt="GitHub Streak" />
     <img  src="https://github-profile-trophy.vercel.app/?username=CITATS928" />
-</div>
+</p>
 
-## My Skill Set  
+## 🛠️My Skill Set  
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
@@ -72,6 +83,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white&logoSize=auto)
 
 #### Cloud Services
+![AWS](https://img.shields.io/badge/amazonwebservices-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&logoSize=auto)
+![AliCloud](https://img.shields.io/badge/alibabacloud-%23FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white&logoSize=auto)
 
 #### Frameworks
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white&logoSize=auto)
@@ -101,3 +114,14 @@
 
 
 
+
+
+## Visitor Count
+<p align="center">
+    <img  src="https://profile-counter.glitch.me/CITATS928/count.svg" />
+</p>
+
+## 📧Contact me:
+<p align="center">
+    <a title="LinkedIn" target="_blank" href="https://www.linkedin.com/in/qianwang29/"><img src="https://img.shields.io/badge/LinkedIn-Qian%20Wang-4169E1?style=plastic&logo=Linkedin&logoColor=%230A66C2&logoSize=auto&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fqianwang29%2F" ></a> 
+</p>
