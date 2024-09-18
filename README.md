@@ -37,17 +37,24 @@
 7. **Docker**: Packaged the project so it can be easily run anywhere.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Pipeline.png" alt="Pipeline" width="500"/>
-  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Real-time_chart.png" alt="Real-time_chart" width="500"/>
-  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Website.png" alt="Website" width="500"/>
-  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/StarMeter_Future.png" alt="StarMeter_Future" width="500"/>
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Pipeline.png" alt="Pipeline" width="400"/>
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Real-time_chart.png" alt="Real-time_chart" width="400"/>
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Website.png" alt="Website" width="400"/>
+  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/StarMeter_Future.png" alt="StarMeter_Future" width="400"/>
 </div>
 
 #### [Prophecy(In Progress)](https://github.com/CITATS928/Prophecy)
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Pipeline.png" alt="Pipeline" width="500"/>
-  <img src="https://github.com/QueueTTP/CapStone/blob/main/images/Real-time_chart.png" alt="Real-time_chart" width="500"/>
+##### Tools and Technologies Used
 
+1. **MySQL**: Queries the data from MySQL, processes it, and sends it to the model.
+2. **Python**: Enable to connect to MySQL, build the Flask web app, and interact with the LM Studio.
+3. **LM Studio**: As local LLM.
+4. **Bootstrap**
+5. **Flask**
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/CITATS928/Prophecy/blob/main/graph%26future/flow_graph.png" alt="workflow" width="400"/>
+  <img src="https://github.com/CITATS928/Prophecy/blob/main/graph%26future/LLM.png" alt="LLM" width="400"/>
 </div>
 
 ## 📈Statistics
