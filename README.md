@@ -1,14 +1,10 @@
 ![welcome header](assets/Bottom_up.svg)
 
 <p align="center">
-    <a href="https://github.com/CITATS928"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=620&height=70&lines=Hello!+I'm+Qian(Charles)" alt="Typing SVG" /></a>
+    <a href="https://github.com/CITATS928"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=420&height=70&lines=Hello!+I'm+Qian" alt="Typing SVG" /></a>
 </p>
 <!-- 自我介绍（动态）
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Hello!+I'm+Qian(Charles))](https://github.com/CITATS928)
-
-<p align="center">
-    <a href="https://github.com/CITATS928"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=420&height=70&lines=Hello!+I'm+Qian(Charles)" alt="Typing SVG" /></a>
-</p>
 -->
 
 <!--lxfs-->
