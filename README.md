@@ -10,7 +10,7 @@
 <!--lxfs-->
 <p align="center">
     <a title="github" target="_blank" href="https://github.com/CITATS928"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DCITATS928&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
-    <a title="LinkedIn" target="_blank" href="https://www.linkedin.com/in/qianwang29/"><img src="https://img.shields.io/badge/LinkedIn-Qian%20Wang-4169E1?style=plastic&logo=Linkedin&logoColor=%230A66C2&logoSize=auto&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fqianwang29%2F" ></a>
+    <a title="LinkedIn" target="_blank" href="https://www.linkedin.com/in/qianwang29/"><img src="https://img.shields.io/badge/LinkedIn-Qian(Charles)%20Wang-4169E1?style=plastic&logo=Linkedin&logoColor=%230A66C2&logoSize=auto&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fqianwang29%2F" ></a>
     
 </p>
 
