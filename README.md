@@ -146,5 +146,5 @@
 
 ## 📧Contact me:
 <p align="center">
-    <a title="LinkedIn" target="_blank" href="https://www.linkedin.com/in/qianwang29/"><img src="https://img.shields.io/badge/LinkedIn-Qian%20Wang-4169E1?style=plastic&logo=Linkedin&logoColor=%230A66C2&logoSize=auto&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fqianwang29%2F" ></a> 
+    <a title="LinkedIn" target="_blank" href="https://www.linkedin.com/in/qianwang29/"><img src="https://img.shields.io/badge/LinkedIn-Qian(Charles)%20Wang-4169E1?style=plastic&logo=Linkedin&logoColor=%230A66C2&logoSize=auto&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fqianwang29%2F" ></a> 
 </p>
